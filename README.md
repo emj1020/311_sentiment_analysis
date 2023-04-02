@@ -34,8 +34,16 @@ This project aims to create a metric to measure the severity of 311 calls and se
 
 # Data: 
 
-* 311 Call Center Inquiries
+* [311 Call Center Inquiries](https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/wewp-mm3p)
 
-*311 Web Content
+* [311 Web Content](https://data.cityofnewyork.us/dataset/311-Web-Content-Services/vwpc-kje2)
 
-* All 311 Complaints (w/ coordinates)
+* [All 311 Complaints (w/ coordinates)](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
+
+# Collaborators:
+
+* Ananya Rajesh: ananyarajesh
+
+* Ahmad Nasrieh: ahmadnasrieh
+
+* Claire Chen: 
