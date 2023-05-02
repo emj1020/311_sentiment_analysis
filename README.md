@@ -47,5 +47,3 @@ This project aims to create a metric to measure the severity of 311 calls and se
 * Ahmad Nasrieh: ahmadnasrieh
 
 * Claire Chen: CC-ClaireChen
-
-* He Gao: hg2683
