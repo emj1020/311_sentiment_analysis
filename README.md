@@ -28,7 +28,6 @@ This project aims to create a metric to measure the severity of 311 calls and se
 
 * Road Density (per area)
 
-* Complaint Density (per capita)
 
 **Step 4:** Build a decision tree to predict 311 severity using the above regressors.
 
