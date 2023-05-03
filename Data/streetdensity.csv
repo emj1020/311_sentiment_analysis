@@ -1,0 +1,263 @@
+NTAName,Normalized
+Greenpoint,1.204308978949537
+Williamsburg,1.4738457352397043
+South Williamsburg,2.7969265182200025
+East Williamsburg,0.8138774802060631
+Brooklyn Heights,4.261340181685852
+Downtown Brooklyn-DUMBO-Boerum Hill,1.7923277168703322
+Fort Greene,2.4260255755822846
+Clinton Hill,2.920263666036966
+Brooklyn Navy Yard,4.209178945709374
+Bedford-Stuyvesant (West),1.1525927010872479
+Bedford-Stuyvesant (East),1.0302410676436893
+Bushwick (West),1.8386615275020997
+Bushwick (East),1.5229132989392435
+The Evergreens Cemetery,7.615947683131153
+Cypress Hills,1.7448801147886706
+East New York (North),1.5242799784335355
+East New York-New Lots,0.9157111743953741
+Spring Creek-Starrett City,1.5704715603397965
+East New York-City Line,1.349177141131807
+Highland Park-Cypress Hills Cemeteries (South),5.25102523260758
+Carroll Gardens-Cobble Hill-Gowanus-Red Hook,0.699507695311367
+Park Slope,1.6469078152615535
+Windsor Terrace-South Slope,2.7780858513373365
+Sunset Park (West),0.8443695175074855
+Sunset Park (Central),2.268193563188011
+Green-Wood Cemetery,2.0158826101013716
+Prospect Heights,4.124461572154526
+Crown Heights (North),1.2010924857777638
+Lincoln Terrace Park,35.02201781524295
+Crown Heights (South),2.121211948724397
+Prospect Lefferts Gardens-Wingate,1.7695471167219903
+Bay Ridge,0.6901399692085177
+Dyker Heights,1.4608413367341748
+Fort Hamilton,5.025712475836815
+Dyker Beach Park,4.258357955235566
+Bensonhurst,0.8746459433410005
+Bath Beach,2.069301501809029
+Gravesend (West),1.2572245409492129
+Sunset Park (East)-Borough Park (West),3.620546908932566
+Borough Park,1.0508150653352129
+Kensington,2.434765546442655
+Mapleton-Midwood (West),1.3566064925080166
+Gravesend (South),1.6464905683273023
+Coney Island-Sea Gate,0.8955146722822225
+Brighton Beach,3.1360788440627756
+Calvert Vaux Park,10.074752003517345
+Flatbush,1.7706478038679525
+Flatbush (West)-Ditmas Park-Parkville,1.8571916406475277
+Midwood,1.3203393164699813
+Gravesend (East)-Homecrest,1.219539557396444
+Madison,1.5536759303596457
+Sheepshead Bay-Manhattan Beach-Gerritsen Beach,0.6712628795843776
+Ocean Hill,2.1173984173099547
+Brownsville,1.3817675327250611
+East Flatbush-Erasmus,2.1515573618445463
+East Flatbush-Farragut,1.7634741606903537
+East Flatbush-Rugby,1.5634822292310442
+East Flatbush-Remsen Village,2.313453777030173
+Holy Cross Cemetery,9.946824887673388
+Flatlands,0.7828589002539339
+Marine Park-Mill Basin-Bergen Beach,0.7225517544883588
+Canarsie,0.6030588849143644
+Marine Park-Plumb Island,0.9829253603942433
+McGuire Fields,4.016988047915455
+Canarsie Park & Pier,3.6823047382152354
+Prospect Park,1.5568108707380184
+Barren Island-Floyd Bennett Field,0.7781384740221065
+Jamaica Bay (West),1.0700650001198355
+Shirley Chisholm State Park,2.3264454121991087
+Mott Haven-Port Morris,1.0381623894006904
+Melrose,2.4628836673234984
+Hunts Point,0.944481366919542
+Longwood,2.764906138849242
+North & South Brother Islands,45.70824983751665
+Morrisania,3.0799949448122415
+Claremont Village-Claremont (East),4.255121072610963
+Crotona Park East,2.6622318569894126
+Crotona Park,6.709794421336556
+Concourse-Concourse Village,1.6050511711511666
+Highbridge,3.259508478523635
+Mount Eden-Claremont (West),3.126140770248052
+Yankee Stadium-Macombs Dam Park,15.144097965276995
+Claremont Park,22.826196229039216
+University Heights (South)-Morris Heights,2.1656307027252613
+Mount Hope,3.3536145475358805
+Fordham Heights,5.764753432659437
+West Farms,3.635133921797727
+Tremont,2.6877552940239484
+Belmont,2.5947575790728625
+University Heights (North)-Fordham,2.3228019772290893
+Bedford Park,1.7325384127735999
+Norwood,2.7051534788068503
+Kingsbridge Heights-Van Cortlandt Village,3.8789155725774593
+Kingsbridge-Marble Hill,3.454869347879208
+Riverdale-Spuyten Duyvil,0.67539280650352
+Soundview-Bruckner-Bronx River,1.3207387277147786
+Soundview-Clason Point,1.4029988999611671
+Castle Hill-Unionport,1.2930479366213234
+Parkchester,4.631619434372247
+Soundview Park,5.454712554884031
+Westchester Square,2.766976208407637
+Throgs Neck-Schuylerville,0.6398905639721623
+Pelham Bay-Country Club-City Island,1.204722717114449
+Co-op City,1.4640380875085615
+Hart Island,8.672185945493744
+Ferry Point Park-St. Raymond Cemetery,1.956187593987408
+Pelham Parkway-Van Nest,2.7289936631868192
+Morris Park,1.5283280834124728
+Pelham Gardens,1.4148892171553769
+Allerton,2.7001463137144035
+Hutchinson Metro Center,3.489721109567253
+Williamsbridge-Olinville,1.173721740631739
+Eastchester-Edenwald-Baychester,0.7542887768361435
+Wakefield-Woodlawn,1.072932214255379
+Woodlawn Cemetery,2.3782664136786513
+Van Cortlandt Park,0.839692719456443
+Bronx Park,1.2712698965194087
+Pelham Bay Park,0.4285677662522038
+Financial District-Battery Park City,2.210357965526411
+Tribeca-Civic Center,3.133063050143837
+The Battery-Governors Island-Ellis Island-Liberty Island,3.5474483507391974
+SoHo-Little Italy-Hudson Square,3.293267238869736
+Greenwich Village,4.010946936235724
+West Village,2.9762336516006602
+Chinatown-Two Bridges,3.6853430756977916
+Lower East Side,2.582318689569061
+East Village,2.2415101701355034
+Chelsea-Hudson Yards,1.4336310657097928
+Hell's Kitchen,2.3140907753379767
+Midtown South-Flatiron-Union Square,2.859119396967205
+Midtown-Times Square,1.7325434778670397
+Stuyvesant Town-Peter Cooper Village,7.629425784754449
+Gramercy,5.651514377671845
+Murray Hill-Kips Bay,2.6972248790839273
+East Midtown-Turtle Bay,3.2377862516667966
+United Nations,38.98129991218209
+Upper West Side-Lincoln Square,2.6927456981314624
+Upper West Side (Central),1.6740349334457414
+Upper West Side-Manhattan Valley,3.222492105651992
+Upper East Side-Lenox Hill-Roosevelt Island,1.9784412632282808
+Upper East Side-Carnegie Hill,2.1199887251786276
+Upper East Side-Yorkville,3.1175115390083565
+Morningside Heights,2.671536567547854
+Manhattanville-West Harlem,3.962656624046782
+Hamilton Heights-Sugar Hill,2.6612441313331097
+Harlem (South),2.9456254203518255
+Harlem (North),1.7880294874143277
+East Harlem (South),2.554251188051634
+East Harlem (North),1.6295404040629302
+Randall's Island,1.8127216615475819
+Washington Heights (South),2.0230458140859557
+Washington Heights (North),1.717102554657657
+Inwood,2.9463348658329536
+Highbridge Park,5.487062301659831
+Inwood Hill Park,4.250583786601265
+Central Park,1.1103020434226087
+Astoria (North)-Ditmars-Steinway,0.7296255168626895
+Old Astoria-Hallets Point,3.8349280662719156
+Astoria (Central),2.01748657255299
+Astoria (East)-Woodside (North),1.6333657686813692
+Queensbridge-Ravenswood-Dutch Kills,1.5344850046745535
+Rikers Island,2.341920763137818
+Sunnyside Yards (North),9.452373382037427
+St. Michael's Cemetery,9.69275427574304
+Astoria Park,15.90250532037671
+Long Island City-Hunters Point,1.5414997431390107
+Sunnyside,0.8917563315845416
+Woodside,1.2910155140669626
+Sunnyside Yards (South),4.84297280759772
+Calvary & Mount Zion Cemeteries,2.976420802989647
+Jackson Heights,1.0819853671460555
+East Elmhurst,1.4788768021246337
+North Corona,3.046896338128431
+Elmhurst,1.0103605538864173
+Corona,1.7705315514161482
+Maspeth,0.7294284186952862
+Ridgewood,0.9996979875931887
+Glendale,1.4176388234413022
+Middle Village,1.2173530358579654
+Mount Olivet & All Faiths Cemeteries,5.5658402400565805
+Middle Village Cemetery,7.718119007904623
+St. John Cemetery,4.859238630339758
+Highland Park-Cypress Hills Cemeteries (North),1.362227472151481
+Rego Park,2.106551945767182
+Forest Hills,0.7340073238029939
+College Point,0.6376634809608851
+Whitestone-Beechhurst,0.8081356642337018
+Bay Terrace-Clearview,1.0819733735823784
+Murray Hill-Broadway Flushing,0.7535219074418378
+East Flushing,1.3435988090515185
+Queensboro Hill,1.6096114146032472
+Flushing-Willets Point,1.1036665356876316
+Fort Totten,6.11422372747574
+Kissena Park,3.861718968326329
+Kew Gardens Hills,1.2399531676834783
+Pomonok-Electchester-Hillcrest,1.150488592680355
+Fresh Meadows-Utopia,1.2814276945357226
+Jamaica Estates-Holliswood,1.0793349106309271
+Jamaica Hills-Briarwood,1.5411091812058784
+Mount Hebron & Cedar Grove Cemeteries,4.619261196178403
+Cunningham Park,1.9966468041228995
+Kew Gardens,2.0970438960593936
+Richmond Hill,1.4053084647656071
+South Richmond Hill,2.683952949078515
+Ozone Park (North),2.3518345377480534
+Woodhaven,1.7927868762690813
+South Ozone Park,0.5197965811417569
+Ozone Park,1.6942303123867888
+Howard Beach-Lindenwood,0.8086387409945761
+Spring Creek Park,3.590257953861132
+Auburndale,0.7669428191517693
+Bayside,0.6041515205467713
+Douglaston-Little Neck,0.6241918723630658
+Oakland Gardens-Hollis Hills,1.0732570312828702
+Alley Pond Park,1.62780346505339
+Jamaica,0.908348342371998
+South Jamaica,1.1234941380432328
+Baisley Park,0.8871629689920503
+Springfield Gardens (North)-Rochdale Village,1.2342737522667482
+St. Albans,0.5727000633149859
+Hollis,1.7384340166046974
+Glen Oaks-Floral Park-New Hyde Park,0.9365278602536088
+Bellerose,0.7689226736570816
+Queens Village,0.6106955214440641
+Cambria Heights,1.2861856687190822
+Laurelton,1.0677132350854084
+Springfield Gardens (South)-Brookville,0.7406095407327716
+Rosedale,0.9005678470690301
+Montefiore Cemetery,7.992890342212964
+Far Rockaway-Bayswater,0.7034009581676326
+Rockaway Beach-Arverne-Edgemere,0.8423018483832031
+Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,0.6144366702833415
+Rockaway Community Park,4.763680798934609
+LaGuardia Airport,1.3905077230693814
+Flushing Meadows-Corona Park,0.77004721697137
+Forest Park,1.7716322638519328
+John F. Kennedy International Airport,0.21572291149268338
+Jamaica Bay (East),0.6083828464510109
+Jacob Riis Park-Fort Tilden-Breezy Point Tip,0.8081284500450848
+St. George-New Brighton,1.6047496013598272
+Tompkinsville-Stapleton-Clifton-Fox Hills,1.7547758336607762
+Rosebank-Shore Acres-Park Hill,1.2067155680952373
+West New Brighton-Silver Lake-Grymes Hill,0.4983405861250278
+Westerleigh-Castleton Corners,0.5558445265759372
+Port Richmond,1.1738946515539062
+Mariner's Harbor-Arlington-Graniteville,0.4758800443012951
+Snug Harbor,11.288306112385833
+Grasmere-Arrochar-South Beach-Dongan Hills,0.5309789092304463
+New Dorp-Midland Beach,0.6840891691392611
+Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,0.22831937655867787
+New Springville-Willowbrook-Bulls Head-Travis,0.20310152980295793
+Freshkills Park (North),0.6244415835569815
+Oakwood-Richmondtown,0.760462479349046
+Great Kills-Eltingville,0.36436345358914957
+Arden Heights-Rossville,0.6276495041492768
+Annadale-Huguenot-Prince's Bay-Woodrow,0.23576193933799883
+Tottenville-Charleston,0.3355443493505889
+Freshkills Park (South),0.8906936562393639
+Fort Wadsworth,4.312129056591436
+Hoffman & Swinburne Islands,66.91554775681473
+Miller Field,3.914522136285582
+Great Kills Park,1.8195298157480324
