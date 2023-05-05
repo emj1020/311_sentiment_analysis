@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Weighted Median Income <= 1.26\nsquared_error = 0.022\nsamples = 154\nvalue = 0.556", fillcolor="#f7d8c1"] ;
+1 [label="Weighted Median Income <= -0.931\nsquared_error = 0.017\nsamples = 137\nvalue = 0.533", fillcolor="#f9e2d2"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+3 [label="squared_error = 0.005\nsamples = 24\nvalue = 0.651", fillcolor="#eeac7d"] ;
+1 -> 3 ;
+4 [label="Hispanic or Latino <= -0.335\nsquared_error = 0.016\nsamples = 113\nvalue = 0.508", fillcolor="#fbeee4"] ;
+1 -> 4 ;
+5 [label="squared_error = 0.009\nsamples = 59\nvalue = 0.471", fillcolor="#ffffff"] ;
+4 -> 5 ;
+6 [label="Native Hawaiian and Other Pacific Islander, not hispanic <= -0.101\nsquared_error = 0.021\nsamples = 54\nvalue = 0.548", fillcolor="#f8dbc7"] ;
+4 -> 6 ;
+7 [label="squared_error = 0.017\nsamples = 34\nvalue = 0.513", fillcolor="#fbece1"] ;
+6 -> 7 ;
+8 [label="squared_error = 0.022\nsamples = 20\nvalue = 0.609", fillcolor="#f2c09b"] ;
+6 -> 8 ;
+2 [label="squared_error = 0.02\nsamples = 17\nvalue = 0.744", fillcolor="#e58139"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="NormalizedSD <= -0.229\nsquared_error = 0.669\nsamples = 154\nvalue = 0.994", fillcolor="#f2c19d"] ;
+1 [label="Below Poverty Line % <= 0.29\nsquared_error = 0.399\nsamples = 76\nvalue = 0.592", fillcolor="#f9e4d5"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+5 [label="Bachelor degree <= 0.085\nsquared_error = 0.316\nsamples = 60\nvalue = 0.467", fillcolor="#fcefe6"] ;
+1 -> 5 ;
+7 [label="squared_error = 0.206\nsamples = 38\nvalue = 0.289", fillcolor="#ffffff"] ;
+5 -> 7 ;
+8 [label="squared_error = 0.357\nsamples = 22\nvalue = 0.773", fillcolor="#f6d4bc"] ;
+5 -> 8 ;
+6 [label="squared_error = 0.434\nsamples = 16\nvalue = 1.062", fillcolor="#f1bb94"] ;
+1 -> 6 ;
+2 [label="Total_NYPD_Complaints <= -0.105\nsquared_error = 0.621\nsamples = 78\nvalue = 1.385", fillcolor="#eb9e67"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="squared_error = 0.694\nsamples = 29\nvalue = 0.828", fillcolor="#f5cfb4"] ;
+2 -> 3 ;
+4 [label="squared_error = 0.286\nsamples = 49\nvalue = 1.714", fillcolor="#e58139"] ;
+2 -> 4 ;
+}

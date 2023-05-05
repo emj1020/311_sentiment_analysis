@@ -1,0 +1,29 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Weighted Median Income <= 1.26\nabsolute_error = 0.115\nsamples = 154\nvalue = 0.542", fillcolor="#f1bc95"] ;
+1 [label="Weighted Median Income <= -0.931\nabsolute_error = 0.099\nsamples = 137\nvalue = 0.528", fillcolor="#f2bf9b"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Total_NYPD_Complaints <= -0.106\nabsolute_error = 0.051\nsamples = 24\nvalue = 0.669", fillcolor="#eb9c64"] ;
+1 -> 2 ;
+3 [label="absolute_error = 0.022\nsamples = 3\nvalue = 0.528", fillcolor="#f2bf9b"] ;
+2 -> 3 ;
+4 [label="absolute_error = 0.04\nsamples = 21\nvalue = 0.677", fillcolor="#ea9a61"] ;
+2 -> 4 ;
+5 [label="Bachelor degree <= 0.112\nabsolute_error = 0.09\nsamples = 113\nvalue = 0.501", fillcolor="#f3c6a5"] ;
+1 -> 5 ;
+6 [label="absolute_error = 0.08\nsamples = 75\nvalue = 0.486", fillcolor="#f4c9ab"] ;
+5 -> 6 ;
+7 [label="absolute_error = 0.098\nsamples = 38\nvalue = 0.543", fillcolor="#f1bb95"] ;
+5 -> 7 ;
+8 [label="Bachelor degree <= -0.559\nabsolute_error = 0.087\nsamples = 17\nvalue = 0.778", fillcolor="#e58139"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="absolute_error = 0.0\nsamples = 1\nvalue = 0.27", fillcolor="#ffffff"] ;
+8 -> 9 ;
+10 [label="NormalizedSD <= -0.618\nabsolute_error = 0.06\nsamples = 16\nvalue = 0.778", fillcolor="#e58139"] ;
+8 -> 10 ;
+11 [label="absolute_error = 0.0\nsamples = 1\nvalue = 0.594", fillcolor="#eeaf81"] ;
+10 -> 11 ;
+12 [label="absolute_error = 0.052\nsamples = 15\nvalue = 0.779", fillcolor="#e58139"] ;
+10 -> 12 ;
+}
